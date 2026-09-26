@@ -142,7 +142,7 @@ export default function Home() {
           <span>FITLOG</span>
         </div>
         <p>© 2026 FitLog — Workout Library. Train hard, log honest.</p>
-      </footer>
+      </footer> 
     </main>
   );
 }
