@@ -225,6 +225,7 @@ export default function WorkoutDetailPage() {
                 )}
               </ol>
             </div>
+            
 
             {/* Action Buttons */}
             <div className="flex items-center gap-4 pt-4">
