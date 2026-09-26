@@ -72,6 +72,7 @@ export default function Home() {
       </nav>
 
       {/* Hero Banner Section */}
+      
       <section className="px-8 md:px-16 py-8">
         <div className="bg-[#121624] border border-zinc-800/80 rounded-3xl p-8 md:p-12 relative overflow-hidden flex flex-col md:flex-row items-center justify-between shadow-2xl">
           <div className="max-w-2xl space-y-5 z-10">
