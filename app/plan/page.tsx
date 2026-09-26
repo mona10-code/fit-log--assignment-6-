@@ -130,7 +130,7 @@ export default function PlanPage() {
     <select
       className="bg-zinc-900 border border-zinc-800 text-white px-3 py-2 rounded-xl outline-none cursor-pointer"
       onChange={(e) => {
-        // Apnar sorting logic ekhane thakbe
+        
       }}
     >
       <option value="duration">Duration</option>
