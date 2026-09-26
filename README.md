@@ -1,24 +1,16 @@
 # FitLog - Workout Library
 
-FitLog is a modern web application built for fitness enthusiasts to track, manage, and explore workout routines efficiently.
+FitLog is a modern and responsive web application designed for fitness enthusiasts to browse, track, and manage their workout routines and plans efficiently.
 
-## Features
-- **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
-- **Workout Library**: Browse various workout categories and detailed views.
-- **Interactive Interface**: Smooth navigation and clean UI built with Next.js and Tailwind CSS.
+## Technologies Used
+- Next.js
+- Tailwind CSS (v4)
+- TypeScript
+- React
 
-## Tech Stack
-- **Framework**: Next.js
-- **Styling**: Tailwind CSS (v4)
-- **Language**: TypeScript / React
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Key Features
+1. **Interactive Workout Library**: Browse various workout categories and detailed views.
+2. **Sort Functionality**: Easily sort workouts by Duration, Calories, and Rating.
+3. **Personalized Workout Plan ("My Plan")**: View and manage added workouts in a structured layout.
+4. **Task Completion Control**: "Mark as Done" button with a check icon to complete workouts.
+5. **Dynamic Removal & Notifications**: Remove button with toast alerts for managing planned workouts.
